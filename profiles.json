@@ -1,0 +1,11 @@
+{
+  "quiet_single_person_wooden_table": {
+    "description": "Quiet room, wooden table, single person, low RF noise",
+    "baseline_mean": -87.8,
+    "window": 10,
+    "var_motion_min": 22.0,
+    "var_motion_soft": 15.0,
+    "var_empty_max": 6.0,
+    "mean_block_drop": 4.0
+  }
+}
